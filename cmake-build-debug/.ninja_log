@@ -1,0 +1,6 @@
+# ninja log v5
+46	82	1710299818330055743	data_structure	b1beb489df71a1b6
+1	46	1710299818294566119	CMakeFiles/data_structure.dir/main.c.o	c61a51edad96b9d1
+0	44	1710300009669548790	build.ninja	57dc7669ccb44b22
+0	298	1710300009970978821	CMakeFiles/data_structure.dir/list.c.o	880c1eb832b44a63
+298	330	1710300010004583348	data_structure	ebeaa666284a90d3
